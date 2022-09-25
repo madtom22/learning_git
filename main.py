@@ -1,4 +1,3 @@
-#Zad1
 print('Zad1')
 lista = {
     'piekarni': ['chleb', 'bułki', 'pączka'],
