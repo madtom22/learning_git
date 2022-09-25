@@ -17,3 +17,4 @@ for shop, stuff in list(lista.items()):
     print('Idę do', shop.capitalize(), f'i kupuję tu następujące rzeczy: {stuff_up}.')
 print(f'W sumie kupuję {things} produktów.')
 print('')
+# to jest 3 wersja tego pliku
